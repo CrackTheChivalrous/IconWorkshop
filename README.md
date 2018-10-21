@@ -5,6 +5,8 @@ IconWorkshop是一款专业的图标制作软件，通过IconWorkshop可以为�
 
 ![](https://github.com/CrackTheChivalrous/IconWorkshop/raw/master/img/img%2031.png)
 
+![](https://github.com/CrackTheChivalrous/IconWorkshop/raw/master/img/img%2032.png)
+
 ### 版本说明
 
 > v6.9.1.0
@@ -13,7 +15,7 @@ IconWorkshop是一款专业的图标制作软件，通过IconWorkshop可以为�
 
 > [IconWorkshop-Pro v6.9.1.0 Patch](https://github.com/CrackTheChivalrous/IconWorkshop/raw/master/Patch/v6.9.1.0/IconWorkshop-Pro%20v6.9.1.0%20Patch.7z)
 
-###安装程序
+### 安装程序
 
 ![](https://github.com/CrackTheChivalrous/IconWorkshop/raw/master/img/img%2001.png)
 
@@ -151,7 +153,7 @@ IconWorkshop是一款专业的图标制作软件，通过IconWorkshop可以为�
 >
 > 博客：[www.intosun.cn](http://www.intosun.cn/)
 
-###温馨提示
+### 温馨提示
 
 > GitHub的下载链接，切勿用迅雷进行下载，推荐使用Internet Download Manager、Free Download Manager、EagleGet。
 >

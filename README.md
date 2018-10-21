@@ -1,0 +1,2 @@
+# IconWorkshop
+IconWorkshop是一款专业的图标制作软件，通过IconWorkshop可以为创建Windows图标,制作Mac图标以及Unix等操作系统创建图标。为Vista/7系统创建256x256的Windows图标，为OSX Lion 系统创建1024x1024的Macintosh图标。以及为Unix/Linux系统制作PNG图标。
